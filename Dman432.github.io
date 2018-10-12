@@ -6,7 +6,7 @@
     <header>
       <h1 class="hi">“ROBOTICS”</h1>
     </header>
-    <p class="P"> If you wish to join the JHS “ROBOTICS” Club then <a href="#">CLICK     HERE</a> to sign up or if you already are a part of robotics then just <a href="#">click here</a>to sign in<img src="join robotics" /></p>
+    <p class="P"> If you wish to join the JHS “ROBOTICS” Club then <a href="#">CLICK HERE</a> to sign up or if you already are a part of robotics then just <a href="#">click here</a>to sign in<img src="join robotics" /></p>
     <p class="pp">We few in “ROBOTICS” club want you to join us and and learn more about … well robots what else.
       <img src="https://sayingimages.com/wp-content/uploads/jim-carrey-duh-meme.jpg" />not only will you learn about robotics you will also take what you learn and go to tournaments.</p>
   </div>
