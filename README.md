@@ -1,0 +1,26 @@
+# Dman432.github.io
+.hi{
+font-size: 30px;
+font-style:Georgia;
+text-decoration-color: cyan;
+}
+.p{
+  font-size: 12px;
+  font-style: Georgia;
+  text-decoration-color:black;
+}
+.pp{
+  font-size: 12px;
+  font-style: Georgia;
+  text-decoration-color: black;
+}
+.h11{
+  font-style: /* TODO:  */;
+  font-size: 30px;
+  text-decoration-color: grey;
+}
+.h3{
+  font-style: normal;
+  font-size: 15px;
+  text-decoration-color: grey;
+}
