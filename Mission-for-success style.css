@@ -1,0 +1,12 @@
+.h1{
+  font-size: 30px;
+  font-text-color: orange;
+  font-style: Georgia;
+}
+.plan{
+  background-color: #434230;
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+  color: #ffffff;
+}
